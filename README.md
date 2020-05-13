@@ -1,2 +1,2 @@
-# leecode
-Record
+# leecode_algorithm
+Daily records.
