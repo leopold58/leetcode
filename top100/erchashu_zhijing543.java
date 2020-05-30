@@ -23,7 +23,7 @@ public class erchashu_zhijing543 {
             return 0;
         int L=helper(node.left);
         int R=helper(node.right);
-        res=Math.max(res,L+R+1);
+        res=Math.max(res,L+R);
         return Math.max(L,R)+1;
     }
 }
