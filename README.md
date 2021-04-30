@@ -1,2 +1,2 @@
-# leecode_algorithm
-Daily records.
+# leetcode_algorithm
+
